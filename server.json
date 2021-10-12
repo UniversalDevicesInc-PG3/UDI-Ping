@@ -1,6 +1,6 @@
 {
     "name": "Ping",
-    "docs": "https://github.com/markv58/UDI-Ping",
+    "docs": "https://github.com/UniversalDevicesInc-PG3/UDI-Ping",
     "type": "python3",
     "executable": "ping.py",
     "install": "install.sh",
@@ -8,14 +8,24 @@
     "notice": "Use at your own risk",
     "shortPoll": "60",
     "longPoll": "240",
+	"logLevel": "INFO",
     "credits": [
         {
             "title": "Ping",
             "author": "Mark Vittes (markv58)",
-            "version": "1.0.15",
-            "date": "April 25, 2019",
-            "source": "https://github.com/markv58/UDI-Ping",
-            "license": "https://raw.githubusercontent.com/markv58/UDI-Ping/master/LICENSE"
+            "version": "2.0.0",
+            "date": "October 12, 2021",
+            "source": "https://github.com/UniversalDevicesInc-PG3/UDI-Ping",
+            "license": "https://raw.githubusercontent.com/UniversalDevicesInc-PG3/UDI-Ping/master/LICENSE"
         }
-    ]
+    ],
+	"store": {
+		"developer": "bpaauwe@bobsplace.com",
+		"purchaseOptions": [
+			{
+				"isPerpetual": true,
+				"price": 0
+			}
+		]
+	}
 }

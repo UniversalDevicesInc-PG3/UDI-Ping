@@ -15,10 +15,3 @@ After you add a custom parameter hit Save Changes then Restart for your new Para
 
 The shortPoll is the time between pings, you can change this to suit your needs.
 
-If you are having issues with Ping, please add the following to your Custom Configuration:
-
-    Key                       Value
-    
-    debug                     True
- 
- This will add extra information to the log to aid in the debugging process.
