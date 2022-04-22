@@ -18,3 +18,7 @@ ST-host-GV1-NAME = Scanning
 NETSTAT-0 = On Network
 NETSTAT-1 = In Fault
 NETSTAT-2 = Off Network
+
+CONNECTION-0 = Connected
+CONNECTION-1 = Disconnected
+CONNECTION-2 = Failed

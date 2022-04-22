@@ -81,7 +81,7 @@ class Controller(udi_interface.Node):
     commands = {
         'QUERY': query
     }
-    drivers = [{'driver': 'ST', 'value': 1, 'uom': 2}]
+    drivers = [{'driver': 'ST', 'value': 0, 'uom': 25}]
 
 class Ping(object):
 

@@ -9,4 +9,7 @@
     <editor id="on_net">
         <range uom="25" subset="0-2" nls="NETSTAT" />
     </editor>
+    <editor id="connection">
+        <range uom="25" subset="0-2" nls="CONNECTION" />
+    </editor>
 </editors>
